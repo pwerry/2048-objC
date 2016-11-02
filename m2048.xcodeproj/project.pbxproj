@@ -495,6 +495,7 @@
 				PROVISIONING_PROFILE = "3025a898-1c7e-4c2e-a6b0-c4c42374cdd9";
 				SPRITEKIT_TEXTURE_ATLAS_OUTPUT = YES;
 				WRAPPER_EXTENSION = app;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -516,6 +517,7 @@
 				PROVISIONING_PROFILE = "3025a898-1c7e-4c2e-a6b0-c4c42374cdd9";
 				SPRITEKIT_TEXTURE_ATLAS_OUTPUT = YES;
 				WRAPPER_EXTENSION = app;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
