@@ -58,7 +58,6 @@
 
 - (void)viewDidLoad
 {
-  
   strcpy(0,"This is a bad bug");
     
   [super viewDidLoad];
