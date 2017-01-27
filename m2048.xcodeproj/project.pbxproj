@@ -494,8 +494,8 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "3025a898-1c7e-4c2e-a6b0-c4c42374cdd9";
 				SPRITEKIT_TEXTURE_ATLAS_OUTPUT = YES;
-				WRAPPER_EXTENSION = app;
 				SWIFT_VERSION = 3.0;
+				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
 		};
@@ -509,6 +509,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 				);
+				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "m2048/m2048-Prefix.pch";
 				INFOPLIST_FILE = "m2048/m2048-Info.plist";
@@ -516,8 +517,8 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "3025a898-1c7e-4c2e-a6b0-c4c42374cdd9";
 				SPRITEKIT_TEXTURE_ATLAS_OUTPUT = YES;
-				WRAPPER_EXTENSION = app;
 				SWIFT_VERSION = 3.0;
+				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
 		};
