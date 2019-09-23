@@ -306,7 +306,7 @@
 				ORGANIZATIONNAME = Danqing;
 				TargetAttributes = {
 					2443DC5118D662CA00C920C1 = {
-						DevelopmentTeam = X9N22WQKJN;
+						DevelopmentTeam = L4FET847JL;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -316,6 +316,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -485,7 +486,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = X9N22WQKJN;
+				DEVELOPMENT_TEAM = L4FET847JL;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -493,7 +494,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "m2048/m2048-Prefix.pch";
 				INFOPLIST_FILE = "m2048/m2048-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.buddybuild.2048DennisPi;
+				PRODUCT_BUNDLE_IDENTIFIER = com.peter.werry.2048ObjC;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -510,7 +511,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = X9N22WQKJN;
+				DEVELOPMENT_TEAM = L4FET847JL;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -519,7 +520,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "m2048/m2048-Prefix.pch";
 				INFOPLIST_FILE = "m2048/m2048-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.buddybuild.2048DennisPi;
+				PRODUCT_BUNDLE_IDENTIFIER = com.peter.werry.2048ObjC;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
